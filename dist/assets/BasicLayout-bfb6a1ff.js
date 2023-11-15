@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{m as s,o as t,c,a as r,h as a}from"./index-0d29c91c.js";const n={},_={class:"h-screen"},i={class:"flex items-stretch h-full"};function l(m,d){const e=s("router-view");return t(),c("div",_,[r("div",i,[a(e)])])}const p=o(n,[["render",l]]);export{p as default};
